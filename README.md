@@ -1,4 +1,4 @@
-👋 Hi, I’m @Gwen-lego.
+👋 Hi, I’m @Gwen-lego. <br />
 
 👀 I’m interested in creating the future.
 🌱 I’m currently learning Web Development via books, video and ressources found online. 
